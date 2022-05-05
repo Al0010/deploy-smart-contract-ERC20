@@ -13,7 +13,6 @@ In this example we will deploy an ERC-20 Token with simple value transfer functi
 # To proceed you will need:
 1) Remix Ethereum IDE
 2) Meta Mask account set up on Ropsten Network
-![Schermata 2022-05-05 alle 17 09 34](https://user-images.githubusercontent.com/100917872/167030558-48f0aad3-a660-42f4-93ef-940fb2d56fa1.png)
 3) Some test ETH inside your Meta Mask
 
 The code has been cleaned up, it contains a first task that is used to call the functions contained in the Open Zeppelin ERC-20 contract on the Ethereum network. As you scroll down you will find a second constructor task that will give you the ability to insert your token data into the function. 
@@ -28,7 +27,7 @@ The data you will need to enter are:
 2) Copy the code 
 3) Edit the parameters as described above 
 4) Set the Ethereum version: "0.8.7+commit.e28d00a7"
-(https://user-images.githubusercontent.com/100917872/166955409-1ac4a047-c7d8-4f61-a485-d82a0596dcf2.png)
+![Schermata 2022-05-05 alle 17 13 39](https://user-images.githubusercontent.com/100917872/167030875-4c1a293c-0e12-4482-b36b-f825f5743b5a.png)
 5) Click on "Compile".
 6) In the deployment area set the version to "Injected Web3"
 ![Schermata 2022-05-05 alle 17 09 34](https://user-images.githubusercontent.com/100917872/167030558-48f0aad3-a660-42f4-93ef-940fb2d56fa1.png)
