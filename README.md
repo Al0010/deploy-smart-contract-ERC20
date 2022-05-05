@@ -31,7 +31,7 @@ The data you will need to enter are:
 (https://user-images.githubusercontent.com/100917872/166955409-1ac4a047-c7d8-4f61-a485-d82a0596dcf2.png)
 5) Click on "Compile".
 6) In the deployment area set the version to "Injected Web3"
-(https://user-images.githubusercontent.com/100917872/166954582-5b7860bd-0caa-4e41-a546-b20440319cfb.png)
+![Schermata 2022-05-05 alle 17 09 34](https://user-images.githubusercontent.com/100917872/167030558-48f0aad3-a660-42f4-93ef-940fb2d56fa1.png)
 7) Choose your smart contract from the drop-down menu 
 8) Click on "Deploy"
 
