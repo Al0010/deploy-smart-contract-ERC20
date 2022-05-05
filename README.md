@@ -48,5 +48,6 @@ https://user-images.githubusercontent.com/100917872/166954582-5b7860bd-0caa-4e41
 8) Click on "Deploy"
 
 # Token 
-It is possible that your Meta Mask does not detect your tokens. To resolve this, simply copy the smart contract address of your token and import it into the Meta Mask smart contract area. 
-
+It is possible that your Meta Mask does not detect your token!
+To resolve this, simply copy the smart contract address of your token and import it into the Meta Mask smart contract area. 
+[Schermata 2022-05-05 alle 17 13 39](https://user-images.githubusercontent.com/100917872/166955704-ec7f5a7e-59f8-48c9-9ffa-5f5180b85229.png)
